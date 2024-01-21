@@ -25,7 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncabrall&layout=compact)
 
 
 
