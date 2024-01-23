@@ -9,26 +9,14 @@
 </p>
 
 ## Habilidades 💻
-#### Linguagens
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-#### JS Frameworks / Bibliotecas
-<!--![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)-->
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-<!--![Svelte](https://img.shields.io/badge/-svelte-000?style=for-the-badge&logo=svelte&logoColor=orange)-->
-
-#### CSS Framework / Bibliotecas / Pré-processadores
-<!--![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)-->
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncabrall&layout=compact)
 
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,py,aws" />
+  </a>
+</p>
 
 
 
