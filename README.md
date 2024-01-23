@@ -3,11 +3,14 @@
 <p align="center">Adoro criar coisas novas ⚡</p>
 <p align="center">Transformando imaginação em realidade 🚀</p>
 <p align="center">
-
-<p align="center">
   <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
+<hr/>
+<p align="center">Cursando Faculdade de Análise e Desenvolvimento de Sistemas</p>
+<p align="center">Escola da Nuvem - Cloud computing | AWS</p>
+<p align="center">EBAC - Engenheiro Front End</p>
+<hr/>
 ## Habilidades 💻
 
 
