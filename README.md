@@ -11,13 +11,14 @@
 <p align="center">Escola da Nuvem - Cloud computing | AWS</p>
 <p align="center">EBAC - Engenheiro Front End</p>
 <hr/>
+
 ## Habilidades 💻
 
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,py,aws" />
+    <img width='320' src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,py,aws" />
   </a>
 </p>
 
