@@ -8,8 +8,8 @@
 
 <hr/>
 <p align="center">Cursando Faculdade de Análise e Desenvolvimento de Sistemas</p>
-<p align="center">Escola da Nuvem - Cloud computing | AWS</p>
-<p align="center">EBAC - Engenheiro Front End</p>
+<p align="center">Cloud computing | AWS</p>
+<p align="center">Front End Enginner</p>
 <hr/>
 
 ## Habilidades 💻
