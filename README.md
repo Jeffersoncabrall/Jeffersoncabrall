@@ -8,7 +8,7 @@
 ## Habilidades 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width='300' src="https://skillicons.dev/icons?i=php,laravel,js,react,typescript,mysql,aws" />
+    <img width='300' src="https://skillicons.dev/icons?i=php,laravel,js,mysql,aws" />
   </a>
 </p>
 
