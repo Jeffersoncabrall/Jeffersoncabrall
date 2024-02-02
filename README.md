@@ -5,10 +5,9 @@
   <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
-## Habilidades 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width='300' src="https://skillicons.dev/icons?i=php,laravel,js,mysql,aws" />
+    <img width='200' src="https://skillicons.dev/icons?i=php,laravel,js,mysql,aws" />
   </a>
 </p>
 
