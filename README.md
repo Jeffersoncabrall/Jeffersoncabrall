@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width='200' src="https://skillicons.dev/icons?i=python,django,flask,fastapi,sql,aws,js" />
+    <img width='300' src="https://skillicons.dev/icons?i=python,django,flask,fastapi,sql,aws,js" />
   </a>
 </p>
 
