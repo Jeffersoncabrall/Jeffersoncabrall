@@ -5,11 +5,11 @@
   <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img width='300' src="https://skillicons.dev/icons?i=python,django,flask,fastapi,mysql,postgresql,aws,js" />
+    <img width='300' src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,react,react native," />
   </a>
-</p> -->
+</p>
 
 
 
