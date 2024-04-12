@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width='300' src="https://skillicons.dev/icons?i=js,jquery,react,nodejs,typescript,next" />
+    <img width='300' src="https://skillicons.dev/icons?i=js,react,typescript,svelte" />
   </a>
 </p>
 
