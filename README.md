@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width='200' src="https://skillicons.dev/icons?i=js,react,typescript,svelte" />
+    <img width='200' src="https://skillicons.dev/icons?i=js,react,typescript,svelte,nodejs" />
   </a>
 </p>
 
