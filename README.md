@@ -16,7 +16,7 @@
 <p align="center">
   Tecnologias :<br/><br/>
   <a href="https://skillicons.dev">
-    <img width='200' src="https://skillicons.dev/icons?i=js,react,typescript,svelte,nodejs" />
+    <img width='200' src="https://skillicons.dev/icons?i=js,react,java" />
   </a>
 </p>
 
