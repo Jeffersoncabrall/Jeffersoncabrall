@@ -6,14 +6,14 @@
 </p>
 
 
-<p align="center" display="block">
- 🧑‍💻Desenvolvedor Fullstack <br/><br/>
- 🎓 Análise e Desenvolvimento de sistemas
-</p>
+<p align="left" display="block">
+  - Desenvolvedor Fullstack 🧑‍💻<br/><br/>
+  - Análise e Desenvolvimento de sistemas 🎓
+</p><br/><br/>
 
 
 
-<p align="center">
+<p align="left">
   Tecnologias :<br/><br/>
   <a href="https://skillicons.dev">
     <img width='200' src="https://skillicons.dev/icons?i=js,react,java" />
