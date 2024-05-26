@@ -7,7 +7,7 @@
 
 
 <p align="left" display="block">
-  - Desenvolvedor Fullstack 🧑‍💻<br/><br/>
+  - Desenvolvedor Front End 🧑‍💻<br/><br/>
   - Análise e Desenvolvimento de sistemas 🎓
 </p><br/><br/>
 
@@ -16,7 +16,7 @@
 <p align="left">
   Tecnologias :<br/><br/>
   <a href="https://skillicons.dev">
-    <img width='300' src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,less,js,react,typescript,redux" />
+    <img width='400' src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,less,js,react,typescript,redux" />
   </a>
 </p>
 
