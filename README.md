@@ -7,8 +7,8 @@
 
 
 <p align="left" display="block">
-  - Desenvolvedor Front End 🧑‍💻<br/><br/>
-  - Análise e Desenvolvimento de sistemas 🎓
+  - Front End Enginner<br/><br/>
+  - Análise e Desenvolvimento de sistemas
 </p><br/><br/>
 
 
