@@ -16,7 +16,7 @@
 <p align="left">
   Tecnologias :<br/><br/>
   <a href="https://skillicons.dev">
-    <img width='400' src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,less,js,react,typescript,redux" />
+    <img width='280' src="https://skillicons.dev/icons?i=tailwind,sass,js,react,typescript,redux,nodejs" />
   </a>
 </p>
 
