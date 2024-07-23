@@ -7,14 +7,14 @@
 
 
 <p align="left" display="block">
-  - Front End Enginner<br/><br/>
-  - Análise e Desenvolvimento de sistemas
+  - Python Developer<br/><br/>
+  - analysis and systems development
 </p><br/><br/>
 
 
 
 <p align="left">
-  Tecnologias :<br/><br/>
+  Technologies :<br/><br/>
   <a href="https://skillicons.dev">
     <img width='160' src="https://skillicons.dev/icons?i=js,python,django,flask" />
   </a>
