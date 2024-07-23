@@ -7,8 +7,8 @@
 
 
 <p align="left" display="block">
-  - Python Developer<br/><br/>
-  - analysis and systems development
+  👨‍💻 | Python Developer<br/><br/>
+  👨‍🎓 | analysis and systems development
 </p><br/><br/>
 
 
@@ -16,7 +16,7 @@
 <p align="left">
   Technologies :<br/><br/>
   <a href="https://skillicons.dev">
-    <img width='200' src="https://skillicons.dev/icons?i=sass,react,styledcomponents,js,python,django,flask" />
+    <img width='200' src="https://skillicons.dev/icons?i=js,react,python,django,flask" />
   </a>
 </p>
 
