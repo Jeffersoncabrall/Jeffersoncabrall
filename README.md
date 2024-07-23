@@ -10,7 +10,7 @@
 #### Atualmente explorando tecnologias como Django e React.
 
 <p align="left">
-  Technologies :<br/><br/>
+ Tecnologias:<br/><br/>
   <a href="https://skillicons.dev">
     <img width='260' src="https://skillicons.dev/icons?i=js,react,python,django,flask" />
   </a>
