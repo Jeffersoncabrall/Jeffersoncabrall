@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width='200' src="https://skillicons.dev/icons?i=javascript,react,php,laravel,mysql" />
+    <img width='200' src="https://skillicons.dev/icons?i=javascript,react,php,nodejs" />
   </a><br /><br />
 </p>
 
